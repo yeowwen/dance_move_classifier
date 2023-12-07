@@ -134,11 +134,13 @@ This oversight can consequently lead to potential misjudgment in scoring and dec
 
 * Process the videos and connect body landmarks with lines and include details of the video with MediaPipes.
 
+* Exploratory Data Analysis to gain insights of each features.
+
 * Train the model find its best parameters with hyperparameter optimizer.
 
 * Use the best parameters to retrain the model and evaluate to identify the best suitable model.
 
-* The chosen model shall be implemented to for multi-class classification. Its output shall include the name of the move and the probability score of how confident the model identifies the move correctly.
+* The chosen model shall be implemented to perform multi-class classification. Its output shall include the name of the move and the probability score of how confident the model identifies the move correctly.
 
 
 
