@@ -363,4 +363,4 @@ The project has successfully achieved its goals:
 * Extend the dance moves database to encompass various hip-hop styles, including popping and locking.
 * Develop a user-friendly app for bboys and bgirls, encouraging the creation of original dance moves.
 
-![DEMO](https://drive.google.com/file/d/12gDHAOIJ5J4W3WlsGf8iYbrx-pPTX6MV/view)
+![DEMO](https://drive.google.com/uc?id=12gDHAOIJ5J4W3WlsGf8iYbrx-pPTX6MV)
